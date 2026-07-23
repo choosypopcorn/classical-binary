@@ -8,7 +8,7 @@ v.1.0, February 2013
 
 This repo holds a set of files that I created as an experiment in getting old work out of proprietary formats. The idea is to take a MSFT Word file and convert it into something that is human readable, open formatted, and convertible.
 
-To do this is I settled upon http://www.methods.co.nz/asciidoc/[AsciiDoc] to mark up the text of the paper. I chose AsciiDoc over http://daringfireball.net/projects/markdown/[Markdown] because of the depth of features and availability of conversion tools.
+To do this is I settled upon https://asciidoc.org/[AsciiDoc] to mark up the text of the paper. I chose AsciiDoc over http://daringfireball.net/projects/markdown/[Markdown] because of the depth of features and availability of conversion tools.
 
 == The Process
 
